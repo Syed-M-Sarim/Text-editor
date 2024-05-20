@@ -1,0 +1,20 @@
+body{
+    padding-top: 2%;
+}
+nav{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+#hero{
+    text-align: center;
+    padding-top: 5%;
+}
+#all{
+    border: 2px solid black;
+}
+#text{
+    border: 2px solid black;
+}
